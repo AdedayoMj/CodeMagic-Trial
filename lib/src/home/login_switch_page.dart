@@ -42,7 +42,6 @@ class _LoginSwitchPageState extends State<LoginSwitchPage> {
                     loginData: email,
                   ),
                 ));
-                ;
               },
             ),
           ),
@@ -71,7 +70,6 @@ class _LoginSwitchPageState extends State<LoginSwitchPage> {
                     loginData: phone,
                   ),
                 ));
-                ;
               },
             ),
           ),

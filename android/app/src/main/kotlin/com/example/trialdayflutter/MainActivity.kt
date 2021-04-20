@@ -1,4 +1,4 @@
-package com.example.trialdayflutter
+package io.codemagic.trialdayflutter
 
 import io.flutter.embedding.android.FlutterActivity
 

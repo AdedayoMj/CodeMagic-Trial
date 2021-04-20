@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.trialdayflutter">
+    package="io.codemagic.trialdayflutter">
    <application
         android:label="trialdayflutter"
         android:icon="@mipmap/ic_launcher">

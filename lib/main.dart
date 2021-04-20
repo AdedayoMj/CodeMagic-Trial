@@ -1,8 +1,12 @@
 import 'package:flutter/material.dart';
+
 import 'package:trialdayflutter/src/home/home.dart';
 
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // await Firebase.initializeApp();
+  // await FirebaseCrashlytics.instance.setCrashlyticsCollectionEnabled(true);
+  // FlutterError.onError = FirebaseCrashlytics.instance.recordFlutterError;
   runApp(MyApp());
 }
 

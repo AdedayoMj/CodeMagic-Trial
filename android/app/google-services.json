@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "893529558955",
+    "project_id": "codemagic-trial-21299",
+    "storage_bucket": "codemagic-trial-21299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893529558955:android:6b0b5e4af3e9a6c7a28cee",
+        "android_client_info": {
+          "package_name": "io.codemagic.trialdayflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893529558955-hm7j5p3rpjminfm60facojvvub71mtjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0hj76n1JLbuFOp7sKi0a5n5vqu08-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893529558955-hm7j5p3rpjminfm60facojvvub71mtjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893529558955-9eh85amali2r9ofnn3okos92rb7a0sgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.codemagic.trialdayflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
